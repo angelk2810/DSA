@@ -1,4 +1,5 @@
 package Mathlogics;
+
 import java.util.Scanner;
 public class Digitcount {
     public static void main(String[] args) {
