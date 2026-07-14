@@ -8,6 +8,7 @@ public class Star{
           System.out.print("*");
       }
       System.out.println();
+      sc.close();
   }
  }
 }

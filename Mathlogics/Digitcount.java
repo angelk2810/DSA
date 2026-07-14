@@ -10,5 +10,6 @@ public class Digitcount {
             count++;
         }
         System.out.println(count);
+        sc.close();
     }
 }
